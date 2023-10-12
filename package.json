@@ -1,6 +1,6 @@
 {
   "name": "date.js-two",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "dates for humans, with typescript & no dependencies",
   "main": "index.js",
   "types": "index.d.cts",

@@ -1,4 +1,7 @@
-# date [![Build Status](https://travis-ci.org/matthewmueller/date.svg?branch=master)](https://travis-ci.org/matthewmueller/date) [![Libscore](http://img.shields.io/badge/libscore-35-brightgreen.svg?style=flat-square)](http://libscore.com/#date)
+This is a tiny fork of excellent Date.js library from Matthew Mueller with **Typescript** typings and
+dependencies removed. Now it has no dependencies at all.
+
+# Original Readme
 
 Date is an english language date parser for node.js and the browser. For examples and demos, see: [http://matthewmueller.github.io/date/](http://matthewmueller.github.io/date/)
 
@@ -8,12 +11,12 @@ Date is an english language date parser for node.js and the browser. For example
 
 ### On the server or in the browser:
 
-    npm install date.js
+    npm install date.js-two
 
 #### Standalone:
 
-* development: [date.js](https://raw.github.com/MatthewMueller/date/master/dist/date.js)
-* minified: [date.min.js](https://raw.github.com/MatthewMueller/date/master/dist/date.min.js)
+* development: [date.js](https://raw.github.com/marekpiechut/date-two/master/dist/date.js)
+* minified: [date.min.js](https://raw.github.com/marekpiechut/date-two/master/dist/date.min.js)
 
 > Standalone is also AMD-compatible
 
