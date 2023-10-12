@@ -1,11 +1,9 @@
 {
-  "name": "date.js",
-  "version": "0.3.3",
-  "description": "dates for humans",
+  "name": "date.js-two",
+  "version": "0.3.5",
+  "description": "dates for humans, with typescript & no dependencies",
   "main": "index.js",
-  "dependencies": {
-    "debug": "~3.1.0"
-  },
+  "types": "index.d.cts",
   "devDependencies": {
     "better-assert": "~1.0.0",
     "browserify": "^16.1.1",
@@ -23,15 +21,13 @@
     "cfg",
     "dates",
     "humans",
-    "parsing"
+    "parsing",
+    "typescript"
   ],
-  "repository": "https://github.com/MatthewMueller/date",
-  "author": "Matthew Mueller",
+  "repository": "https://github.com/marekpiechut/date-two",
+  "author": "Matthew Mueller, Marek Piechut",
   "license": "MIT",
   "spm": {
-    "main": "index.js",
-    "dependencies": {
-      "debug": "0.8.1"
-    }
+    "main": "index.js"
   }
 }
